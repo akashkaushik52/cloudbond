@@ -22,7 +22,7 @@ yarn.lock
 .env.production.local
 
 # Next.js static files
-public/
+
 
 # OS-specific files
 .DS_Store
