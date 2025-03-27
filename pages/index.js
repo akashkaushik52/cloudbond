@@ -46,7 +46,7 @@ export default function Home() {
       <div
         className="container-fluid banner-container"
         style={{
-          backgroundImage: `url("images/usa/statue.jpg")`,
+          backgroundImage: `url("images/planewing.jpg")`,
           height: "125vh",
           marginBottom: "300px",
           backgroundBlendMode: "multiply",

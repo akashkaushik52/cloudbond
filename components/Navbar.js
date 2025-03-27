@@ -30,7 +30,7 @@ const Navbar = () => {
         <nav class="navbar">
           <Link href="/">
             <img
-              src="../images/bondlogo.png"
+              src="../images/cloudbonds.png"
               class="logo_trademark"
               alt="flyofare trademark"
             />

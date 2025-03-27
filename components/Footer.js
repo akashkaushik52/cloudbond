@@ -60,7 +60,7 @@ const Footer = () => {
                 </a>
               </div>
               <img
-                src="/images/bondlogo.png"
+                src="/images/cloudbonds.png"
                 className="logo_trademark"
                 alt="flyofare logo"
               />
